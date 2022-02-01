@@ -9,7 +9,7 @@ let something = 4.15451;
 
 // String
 let name = "Arifuzzaman Tusar";
-let address = "Bangladesh";
+let address = 'Bangladesh';
 
 // Boolean
 let stats = true;
